@@ -9,6 +9,10 @@ A Streamlit application deployed on Streamlit Cloud via GitHub CI/CD.
 3. **Push** your code to this GitHub repository
 4. **Connect** your GitHub repo to your Streamlit Cloud account
 5. **Deploy** your application on Streamlit Cloud
+   
+
+<img width="3452" height="2070" alt="image" src="https://github.com/user-attachments/assets/c8d21d25-9d19-464f-8ebf-f2e8caef3ae7" />
+
 
 ## Project Structure
 
